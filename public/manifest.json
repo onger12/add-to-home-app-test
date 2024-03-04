@@ -1,7 +1,7 @@
 {
   "name": "App Testing",
   "short_name": "App Test",
-  "start_url": "/",
+  "start_url": "/add-to-home-app-test/",
   "display": "standalone",
   "icons": [
     {
