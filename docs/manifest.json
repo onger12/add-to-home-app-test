@@ -1,13 +1,23 @@
 {
   "name": "App Testing",
   "short_name": "App Test",
-  "start_url": "/",
+  "start_url": "/add-to-home-app-test/",
   "display": "standalone",
   "icons": [
     {
-      "src": "./128x128.png",
+      "src": "icon128",
       "type": "image/png",
       "sizes": "128x128"
+    },
+    {
+      "src": "icon192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon512",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "theme_color": "#ffffff",
