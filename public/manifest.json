@@ -5,17 +5,17 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "/128x128.png",
+      "src": "icon128",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "/192x192.png",
+      "src": "icon192",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/512x512.png",
+      "src": "icon512",
       "type": "image/png",
       "sizes": "512x512"
     }
